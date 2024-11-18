@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	// github chabging
 	for(int i=0;i<=5;i++)
 	{
 		cout<<"Multiplication table:"<<i<<endl;
