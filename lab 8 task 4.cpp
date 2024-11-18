@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	// git hub changing
 	int f=1,n;
 	cout<<"Enter the number:";
 	cin>>n;
